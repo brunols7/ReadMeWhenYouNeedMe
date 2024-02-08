@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'components/data.dart';
 
+/*
+  Developed by brunols7
+*/
+
 void main() {
   runApp(MyApp());
 }
@@ -140,3 +144,7 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
+/*
+  Developed by brunols7
+*/
