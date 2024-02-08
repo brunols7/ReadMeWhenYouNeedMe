@@ -1,16 +1,11 @@
-# readmewhen
+# Read Me When You Need
 
-A new Flutter project.
+**Complete project made in Flutter. Developed by brunols7.**
+
+Book description 📚:<br>
+"This book serves not just as a sentimental gift, but as a lasting memory, an eternal reminder of your gratitude for that special person."
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Customize your options, emojis and your custom texts in ***data.dart***
+Example: (_**'When you're happy', '😄', 'If you're happy, so am I!'**_)
