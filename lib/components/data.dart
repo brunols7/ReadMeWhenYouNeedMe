@@ -1,5 +1,9 @@
 import 'dart:math';
 
+/*
+  Developed by brunols7
+*/
+
 class DataList {
 
     static final List<String> jokes = [
@@ -52,3 +56,7 @@ class DataList {
   ];
 
 }
+
+/*
+  Developed by brunols7
+*/
